@@ -30,9 +30,9 @@ Each day, I will focus on a key JavaScript topic, complete exercises, and reflec
 
 ## 🔗 Resources
 
-- [freeCodeCamp](https://www.freecodecamp.org/news/how-javascript-works-behind-the-scene-javascript-execution-context/)
-- [JavaScript Tutorial](https://www.javascripttutorial.net/javascript-call-stack/)
-- [JavaScript Tutorial](https://www.javascripttutorial.net/javascript-hoisting/)
+- [freeCodeCamp - Execution Context](https://www.freecodecamp.org/news/how-javascript-works-behind-the-scene-javascript-execution-context/)
+- [JavaScript Tutorial - Call Stack](https://www.javascripttutorial.net/javascript-call-stack/)
+- [JavaScript Tutorial - Hoisting](https://www.javascripttutorial.net/javascript-hoisting/)
 
 ## 💡 Reflections & Learnings
 
