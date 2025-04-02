@@ -10,8 +10,8 @@ Each day, I will focus on a key JavaScript topic, complete exercises, and reflec
 
 ```
 /100-days-of-code
- ├── week-1/
- │   ├── day-1/
+ ├── week-1-scopes-and-closures/
+ │   ├── day-1-execution-context/
  │       ├── day-1.js/
  │       ├── Notes.md/
  ├── README.md
