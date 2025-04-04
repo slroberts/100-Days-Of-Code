@@ -17,6 +17,9 @@ Each day, I will focus on a key JavaScript topic, complete exercises, and reflec
  │   ├── day-2-understanding-function-scope/
  │       ├── day-2.js/
  │       ├── Notes.md/
+ │   ├── day-3-closures/
+ │       ├── day-3.js/
+ │       ├── Notes.md/
  ├── README.md
 ```
 
@@ -33,6 +36,7 @@ Each day, I will focus on a key JavaScript topic, complete exercises, and reflec
 | --- | ---------------------------- | ------------------------------------------------------------- |
 | 1   | Execution Context            | Learned about the Execution Context, Call Stack and Hoisting. |
 | 2   | Understanding Function Scope | Learned about Function, Block and Global Scope.               |
+| 3   | Closures                     | Learned about Closures.                                       |
 
 ## 🔗 Resources
 
@@ -41,6 +45,9 @@ Each day, I will focus on a key JavaScript topic, complete exercises, and reflec
 - [JavaScript Tutorial - Hoisting](https://www.javascripttutorial.net/javascript-hoisting/)
 - [MDN - Scope](https://developer.mozilla.org/en-US/docs/Glossary/Scope)
 - [daily.dev - Concepts in JavaScript: Understanding Scope](https://daily.dev/blog/concepts-in-javascript-understanding-scope#:~:text=Function%20Scope%3A%20Variables%20declared%20within,variables%20of%20their%20outer%20functions.)
+- [MDN - Closures](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Closures)
+- [builtin - Closures](https://builtin.com/articles/javascript-closures)
+- [JavaScript Closures Tutorial (Explained in depth)](https://www.youtube.com/watch?v=aHrvi2zTlaU)
 
 ## 💡 Reflections & Learnings
 
