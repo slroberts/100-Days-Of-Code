@@ -1,4 +1,4 @@
-### **Execution Context**
+# 🧠 **Execution Context**
 
 JavaScript execution context defines the **environment** in which code runs, determining available variables and functions. It consists of two phases:
 
