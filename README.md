@@ -20,6 +20,9 @@ Each day, I will focus on a key JavaScript topic, complete exercises, and reflec
  │   ├── day-3-closures/
  │       ├── day-3.js/
  │       ├── Notes.md/
+ │   ├── day-4-practical-closure-challenge/
+ │       ├── day-4.js/
+ │       ├── Notes.md/
  ├── README.md
 ```
 
@@ -37,6 +40,7 @@ Each day, I will focus on a key JavaScript topic, complete exercises, and reflec
 | 1   | Execution Context            | Learned about the Execution Context, Call Stack and Hoisting. |
 | 2   | Understanding Function Scope | Learned about Function, Block and Global Scope.               |
 | 3   | Closures                     | Learned about Closures.                                       |
+| 4   | Practical Closures Challenge | Completed Practical Closures Challenge.                       |
 
 ## 🔗 Resources
 
