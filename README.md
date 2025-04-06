@@ -23,6 +23,9 @@ Each day, I will focus on a key JavaScript topic, complete exercises, and reflec
  │   ├── day-4-practical-closure-challenge/
  │       ├── day-4.js/
  │       ├── Notes.md/
+ │   ├── day-5-lexical-scope-and-private-variables-challenge/
+ │       ├── day-5.js/
+ │       ├── Notes.md/
  ├── README.md
 ```
 
@@ -35,12 +38,13 @@ Each day, I will focus on a key JavaScript topic, complete exercises, and reflec
 
 ## 📖 Daily Log
 
-| Day | Topic                        | Summary                                                       |
-| --- | ---------------------------- | ------------------------------------------------------------- |
-| 1   | Execution Context            | Learned about the Execution Context, Call Stack and Hoisting. |
-| 2   | Understanding Function Scope | Learned about Function, Block and Global Scope.               |
-| 3   | Closures                     | Learned about Closures.                                       |
-| 4   | Practical Closures Challenge | Completed Practical Closures Challenge.                       |
+| Day | Topic                             | Summary                                                           |
+| --- | --------------------------------- | ----------------------------------------------------------------- |
+| 1   | Execution Context                 | Learned about the Execution Context, Call Stack and Hoisting.     |
+| 2   | Understanding Function Scope      | Learned about Function, Block and Global Scope.                   |
+| 3   | Closures                          | Learned about Closures.                                           |
+| 4   | Practical Closures Challenge      | Completed Practical Closures Challenge.                           |
+| 5   | Lexical Scope & Private Variables | Implemented a module that maintains private state using closures. |
 
 ## 🔗 Resources
 
