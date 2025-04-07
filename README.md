@@ -26,7 +26,7 @@ Each day, I will focus on a key JavaScript topic, complete exercises, and reflec
  │   ├── day-5-lexical-scope-and-private-variables-challenge/
  │       ├── day-5.js/
  │       ├── Notes.md/
- │   ├── day-6-debugging/
+ │   ├── day-6-debugging-issues/
  │       ├── Notes.md/
  ├── README.md
 ```
@@ -47,7 +47,7 @@ Each day, I will focus on a key JavaScript topic, complete exercises, and reflec
 | 3   | Closures                          | Learned about Closures.                                           |
 | 4   | Practical Closures Challenge      | Completed Practical Closures Challenge.                           |
 | 5   | Lexical Scope & Private Variables | Implemented a module that maintains private state using closures. |
-| 6   | Debugging                         | Learned about JavaScript debugging and error handling.            |
+| 6   | Debugging Issues                  | Learned about JavaScript debugging and error handling.            |
 
 ## 🔗 Resources
 

@@ -1,4 +1,4 @@
-# Debugging JavaScript – Summary
+# Debugging JavaScript
 
 ## 🔍 What is Debugging?
 
