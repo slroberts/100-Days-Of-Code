@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Debounce Test</title>
+    <style>
+      body {
+        font-family: sans-serif;
+        padding: 2rem;
+      }
+
+      #output {
+        font-size: 1.5rem;
+      }
+    </style>
+  </head>
+
+  <body>
+    <h1>Resize the window</h1>
+    <p id="output">Waiting for resize...</p>
+
+    <script>
+      function debounce(fn, delay) {
+        let timeoutId;
+        return function (...args) {
+          clearTimeout(timeoutId);
+          timeoutId = setTimeout(() => {
+            fn.apply(this, args);
+          }, delay);
+        };
+      }
+
+      const output = document.getElementById('output');
+
+      function handleResize() {
+        output.textContent = `Window resized at ${new Date().toLocaleTimeString()}`;
+      }
+
+      window.addEventListener('resize', debounce(handleResize, 500));
+    </script>
+  </body>
+</html>

@@ -28,6 +28,8 @@ Each day, I will focus on a key JavaScript topic, complete exercises, and reflec
  │       ├── Notes.md/
  │   ├── day-6-debugging-issues/
  │       ├── Notes.md/
+ │   ├── day-7-mini-project/
+ │       ├── day-7.js.md/
  ├── README.md
 ```
 
@@ -48,6 +50,7 @@ Each day, I will focus on a key JavaScript topic, complete exercises, and reflec
 | 4   | Practical Closures Challenge      | Completed Practical Closures Challenge.                           |
 | 5   | Lexical Scope & Private Variables | Implemented a module that maintains private state using closures. |
 | 6   | Debugging Issues                  | Learned about JavaScript debugging and error handling.            |
+| 7   | Mini Project                      | Debounce function that limits the execution of a function call.   |
 
 ## 🔗 Resources
 
@@ -60,6 +63,8 @@ Each day, I will focus on a key JavaScript topic, complete exercises, and reflec
 - [builtin - Closures](https://builtin.com/articles/javascript-closures)
 - [JavaScript Closures Tutorial (Explained in depth)](https://www.youtube.com/watch?v=aHrvi2zTlaU)
 - [MDN - JavaScript debugging and error handling](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/Debugging_JavaScript)
+- [MDN - Debounce](https://developer.mozilla.org/en-US/docs/Glossary/Debounce)
+- [freeCodeCamp - Debounce – How to Delay a Function in JavaScript](https://www.freecodecamp.org/news/javascript-debounce-example/)
 
 ## 💡 Reflections & Learnings
 
