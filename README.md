@@ -29,7 +29,8 @@ Each day, I will focus on a key JavaScript topic, complete exercises, and reflec
  │   ├── day-6-debugging-issues/
  │       ├── Notes.md/
  │   ├── day-7-mini-project/
- │       ├── day-7.js.md/
+ │       ├── day-7.html/
+ │       ├── Notes.md/
  ├── README.md
 ```
 
