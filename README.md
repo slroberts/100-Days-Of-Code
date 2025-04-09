@@ -31,6 +31,10 @@ Each day, I will focus on a key JavaScript topic, complete exercises, and reflec
  │   ├── day-7-mini-project/
  │       ├── day-7.html/
  │       ├── Notes.md/
+ ├── week-2-event-loop-and-prototypes/
+ │   ├── day-8-understanding-the-event-loop/
+ │       ├── day-8.js/
+ │       ├── Notes.md/
  ├── README.md
 ```
 
@@ -52,6 +56,7 @@ Each day, I will focus on a key JavaScript topic, complete exercises, and reflec
 | 5   | Lexical Scope & Private Variables | Implemented a module that maintains private state using closures. |
 | 6   | Debugging Issues                  | Learned about JavaScript debugging and error handling.            |
 | 7   | Mini Project                      | Debounce function that limits the execution of a function call.   |
+| 8   | Understanding the Event Loop      | Learned about the Event Loop.                                     |
 
 ## 🔗 Resources
 
@@ -66,6 +71,7 @@ Each day, I will focus on a key JavaScript topic, complete exercises, and reflec
 - [MDN - JavaScript debugging and error handling](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/Debugging_JavaScript)
 - [MDN - Debounce](https://developer.mozilla.org/en-US/docs/Glossary/Debounce)
 - [freeCodeCamp - Debounce – How to Delay a Function in JavaScript](https://www.freecodecamp.org/news/javascript-debounce-example/)
+- [What the heck is the event loop anyway? | Philip Roberts | JSConf EU](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
 
 ## 💡 Reflections & Learnings
 
