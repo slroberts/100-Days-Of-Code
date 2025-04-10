@@ -35,6 +35,9 @@ Each day, I will focus on a key JavaScript topic, complete exercises, and reflec
  │   ├── day-8-understanding-the-event-loop/
  │       ├── day-8.js/
  │       ├── Notes.md/
+ │   ├── day-9-writing-asynchronous-javaScript/
+ │       ├── day-9.js/
+ │       ├── Notes.md/
  ├── README.md
 ```
 
@@ -47,16 +50,17 @@ Each day, I will focus on a key JavaScript topic, complete exercises, and reflec
 
 ## 📖 Daily Log
 
-| Day | Topic                             | Summary                                                           |
-| --- | --------------------------------- | ----------------------------------------------------------------- |
-| 1   | Execution Context                 | Learned about the Execution Context, Call Stack and Hoisting.     |
-| 2   | Understanding Function Scope      | Learned about Function, Block and Global Scope.                   |
-| 3   | Closures                          | Learned about Closures.                                           |
-| 4   | Practical Closures Challenge      | Completed Practical Closures Challenge.                           |
-| 5   | Lexical Scope & Private Variables | Implemented a module that maintains private state using closures. |
-| 6   | Debugging Issues                  | Learned about JavaScript debugging and error handling.            |
-| 7   | Mini Project                      | Debounce function that limits the execution of a function call.   |
-| 8   | Understanding the Event Loop      | Learned about the Event Loop.                                     |
+| Day | Topic                             | Summary                                                                   |
+| --- | --------------------------------- | ------------------------------------------------------------------------- |
+| 1   | Execution Context                 | Learned about the Execution Context, Call Stack and Hoisting.             |
+| 2   | Understanding Function Scope      | Learned about Function, Block and Global Scope.                           |
+| 3   | Closures                          | Learned about Closures.                                                   |
+| 4   | Practical Closures Challenge      | Completed Practical Closures Challenge.                                   |
+| 5   | Lexical Scope & Private Variables | Implemented a module that maintains private state using closures.         |
+| 6   | Debugging Issues                  | Learned about JavaScript debugging and error handling.                    |
+| 7   | Mini Project                      | Debounce function that limits the execution of a function call.           |
+| 8   | Understanding the Event Loop      | Learned about the Event Loop.                                             |
+| 9   | Writing Asynchronous JavaScript   | Learned about Asynchronous JavaScript, Callbacks, Promises & Async/Await. |
 
 ## 🔗 Resources
 
@@ -72,6 +76,8 @@ Each day, I will focus on a key JavaScript topic, complete exercises, and reflec
 - [MDN - Debounce](https://developer.mozilla.org/en-US/docs/Glossary/Debounce)
 - [freeCodeCamp - Debounce – How to Delay a Function in JavaScript](https://www.freecodecamp.org/news/javascript-debounce-example/)
 - [What the heck is the event loop anyway? | Philip Roberts | JSConf EU](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
+- [Eloquent JavaScript - Asynchronous Programming](https://eloquentjavascript.net/11_async.html)
+- [freeCodeCamp - Asynchronous Programming in JavaScript – Callbacks, Promises, & Async/Await Examples](https://www.freecodecamp.org/news/asynchronous-programming-in-javascript-examples/)
 
 ## 💡 Reflections & Learnings
 
