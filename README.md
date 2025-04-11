@@ -38,6 +38,9 @@ Each day, I will focus on a key JavaScript topic, complete exercises, and reflec
  │   ├── day-9-writing-asynchronous-javaScript/
  │       ├── day-9.js/
  │       ├── Notes.md/
+ │   ├── day-10-custom-promise-implementation/
+ │       ├── day-10.js/
+ │       ├── Notes.md/
  ├── README.md
 ```
 
@@ -61,6 +64,7 @@ Each day, I will focus on a key JavaScript topic, complete exercises, and reflec
 | 7   | Mini Project                      | Debounce function that limits the execution of a function call.           |
 | 8   | Understanding the Event Loop      | Learned about the Event Loop.                                             |
 | 9   | Writing Asynchronous JavaScript   | Learned about Asynchronous JavaScript, Callbacks, Promises & Async/Await. |
+| 10  | Custom Promise Implementation     | Implemented Custom Promise                                                |
 
 ## 🔗 Resources
 
