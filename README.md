@@ -41,6 +41,9 @@ Each day, I will focus on a key JavaScript topic, complete exercises, and reflec
  │   ├── day-10-custom-promise-implementation/
  │       ├── day-10.js/
  │       ├── Notes.md/
+ │   ├── day-11-this/
+ │       ├── day-11.js/
+ │       ├── Notes.md/
  ├── README.md
 ```
 
@@ -65,6 +68,7 @@ Each day, I will focus on a key JavaScript topic, complete exercises, and reflec
 | 8   | Understanding the Event Loop      | Learned about the Event Loop.                                             |
 | 9   | Writing Asynchronous JavaScript   | Learned about Asynchronous JavaScript, Callbacks, Promises & Async/Await. |
 | 10  | Custom Promise Implementation     | Implemented Custom Promise                                                |
+| 11  | this                              | Learned about this.                                                       |
 
 ## 🔗 Resources
 
@@ -82,6 +86,8 @@ Each day, I will focus on a key JavaScript topic, complete exercises, and reflec
 - [What the heck is the event loop anyway? | Philip Roberts | JSConf EU](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
 - [Eloquent JavaScript - Asynchronous Programming](https://eloquentjavascript.net/11_async.html)
 - [freeCodeCamp - Asynchronous Programming in JavaScript – Callbacks, Promises, & Async/Await Examples](https://www.freecodecamp.org/news/asynchronous-programming-in-javascript-examples/)
+- [MDN - this](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/this)
+- [freeCodeCamp - How to Use the "this" Keyword in JavaScript](https://www.freecodecamp.org/news/the-this-keyword-in-javascript/)
 
 ## 💡 Reflections & Learnings
 
