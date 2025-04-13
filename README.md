@@ -44,6 +44,9 @@ Each day, I will focus on a key JavaScript topic, complete exercises, and reflec
  │   ├── day-11-this/
  │       ├── day-11.js/
  │       ├── Notes.md/
+ │   ├── day-12-understanding-prototypes/
+ │       ├── day-12.js/
+ │       ├── Notes.md/
  ├── README.md
 ```
 
@@ -56,19 +59,20 @@ Each day, I will focus on a key JavaScript topic, complete exercises, and reflec
 
 ## 📖 Daily Log
 
-| Day | Topic                             | Summary                                                                   |
-| --- | --------------------------------- | ------------------------------------------------------------------------- |
-| 1   | Execution Context                 | Learned about the Execution Context, Call Stack and Hoisting.             |
-| 2   | Understanding Function Scope      | Learned about Function, Block and Global Scope.                           |
-| 3   | Closures                          | Learned about Closures.                                                   |
-| 4   | Practical Closures Challenge      | Completed Practical Closures Challenge.                                   |
-| 5   | Lexical Scope & Private Variables | Implemented a module that maintains private state using closures.         |
-| 6   | Debugging Issues                  | Learned about JavaScript debugging and error handling.                    |
-| 7   | Mini Project                      | Debounce function that limits the execution of a function call.           |
-| 8   | Understanding the Event Loop      | Learned about the Event Loop.                                             |
-| 9   | Writing Asynchronous JavaScript   | Learned about Asynchronous JavaScript, Callbacks, Promises & Async/Await. |
-| 10  | Custom Promise Implementation     | Implemented Custom Promise                                                |
-| 11  | this                              | Learned about this.                                                       |
+| Day | Topic                             | Summary                                                                                   |
+| --- | --------------------------------- | ----------------------------------------------------------------------------------------- |
+| 1   | Execution Context                 | Learned about the Execution Context, Call Stack and Hoisting.                             |
+| 2   | Understanding Function Scope      | Learned about Function, Block and Global Scope.                                           |
+| 3   | Closures                          | Learned about Closures.                                                                   |
+| 4   | Practical Closures Challenge      | Completed Practical Closures Challenge.                                                   |
+| 5   | Lexical Scope & Private Variables | Implemented a module that maintains private state using closures.                         |
+| 6   | Debugging Issues                  | Learned about JavaScript debugging and error handling.                                    |
+| 7   | Mini Project                      | Debounce function that limits the execution of a function call.                           |
+| 8   | Understanding the Event Loop      | Learned about the Event Loop.                                                             |
+| 9   | Writing Asynchronous JavaScript   | Learned about Asynchronous JavaScript, Callbacks, Promises & Async/Await.                 |
+| 10  | Custom Promise Implementation     | Implemented Custom Promise                                                                |
+| 11  | this                              | Learned about this.                                                                       |
+| 12  | Understanding Prototypes          | Learned about Prototypes, Prototype Chain, Function Prototypes and Prototype Inheritance. |
 
 ## 🔗 Resources
 
@@ -88,6 +92,8 @@ Each day, I will focus on a key JavaScript topic, complete exercises, and reflec
 - [freeCodeCamp - Asynchronous Programming in JavaScript – Callbacks, Promises, & Async/Await Examples](https://www.freecodecamp.org/news/asynchronous-programming-in-javascript-examples/)
 - [MDN - this](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/this)
 - [freeCodeCamp - How to Use the "this" Keyword in JavaScript](https://www.freecodecamp.org/news/the-this-keyword-in-javascript/)
+- [MDN - Object prototypes](https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Advanced_JavaScript_objects/Object_prototypes)
+- [MDN - Function: prototype](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/prototype)
 
 ## 💡 Reflections & Learnings
 
