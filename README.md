@@ -47,6 +47,9 @@ Each day, I will focus on a key JavaScript topic, complete exercises, and reflec
  │   ├── day-12-understanding-prototypes/
  │       ├── day-12.js/
  │       ├── Notes.md/
+ │   ├── day-13-es6-classes-and-inheritance
+ │       ├── day-13.js/
+ │       ├── Notes.md/
  ├── README.md
 ```
 
@@ -73,6 +76,7 @@ Each day, I will focus on a key JavaScript topic, complete exercises, and reflec
 | 10  | Custom Promise Implementation     | Implemented Custom Promise                                                                |
 | 11  | this                              | Learned about this.                                                                       |
 | 12  | Understanding Prototypes          | Learned about Prototypes, Prototype Chain, Function Prototypes and Prototype Inheritance. |
+| 13  | ES6 Classes & Inheritance         | Learned ES6 Classes & Inheritance                                                         |
 
 ## 🔗 Resources
 
@@ -94,6 +98,7 @@ Each day, I will focus on a key JavaScript topic, complete exercises, and reflec
 - [freeCodeCamp - How to Use the "this" Keyword in JavaScript](https://www.freecodecamp.org/news/the-this-keyword-in-javascript/)
 - [MDN - Object prototypes](https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Advanced_JavaScript_objects/Object_prototypes)
 - [MDN - Function: prototype](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/prototype)
+- [MDN - Classes](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes)
 
 ## 💡 Reflections & Learnings
 
