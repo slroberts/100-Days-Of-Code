@@ -50,6 +50,8 @@ Each day, I will focus on a key JavaScript topic, complete exercises, and reflec
  │   ├── day-13-es6-classes-and-inheritance
  │       ├── day-13.js/
  │       ├── Notes.md/
+ │   ├── day-14-mini-project/
+ │       ├── day-14.js/
  ├── README.md
 ```
 
@@ -77,6 +79,7 @@ Each day, I will focus on a key JavaScript topic, complete exercises, and reflec
 | 11  | this                              | Learned about this.                                                                       |
 | 12  | Understanding Prototypes          | Learned about Prototypes, Prototype Chain, Function Prototypes and Prototype Inheritance. |
 | 13  | ES6 Classes & Inheritance         | Learned ES6 Classes & Inheritance                                                         |
+| 14  | Mini Project                      | Built a simple pub/sub (event emitter) in JavaScript                                      |
 
 ## 🔗 Resources
 
