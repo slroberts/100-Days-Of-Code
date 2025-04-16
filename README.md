@@ -56,6 +56,9 @@ Each day, I will focus on a key JavaScript topic, complete exercises, and reflec
  │   ├── day-15-higher-order-functions/
  │       ├── day-15.js/
  │       ├── Notes.md/
+ │   ├── day-16-day-16-function-composition-and-currying/
+ │       ├── day-16.js/
+ │       ├── Notes.md/
  ├── README.md
 ```
 
@@ -68,23 +71,27 @@ Each day, I will focus on a key JavaScript topic, complete exercises, and reflec
 
 ## 📖 Daily Log
 
-| Day | Topic                             | Summary                                                                                   |
-| --- | --------------------------------- | ----------------------------------------------------------------------------------------- |
-| 1   | Execution Context                 | Learned about the Execution Context, Call Stack and Hoisting.                             |
-| 2   | Understanding Function Scope      | Learned about Function, Block and Global Scope.                                           |
-| 3   | Closures                          | Learned about Closures.                                                                   |
-| 4   | Practical Closures Challenge      | Completed Practical Closures Challenge.                                                   |
-| 5   | Lexical Scope & Private Variables | Implemented a module that maintains private state using closures.                         |
-| 6   | Debugging Issues                  | Learned about JavaScript debugging and error handling.                                    |
-| 7   | Mini Project                      | Debounce function that limits the execution of a function call.                           |
-| 8   | Understanding the Event Loop      | Learned about the Event Loop.                                                             |
-| 9   | Writing Asynchronous JavaScript   | Learned about Asynchronous JavaScript, Callbacks, Promises & Async/Await.                 |
-| 10  | Custom Promise Implementation     | Implemented Custom Promise                                                                |
-| 11  | this                              | Learned about this.                                                                       |
-| 12  | Understanding Prototypes          | Learned about Prototypes, Prototype Chain, Function Prototypes and Prototype Inheritance. |
-| 13  | ES6 Classes & Inheritance         | Learned ES6 Classes & Inheritance                                                         |
-| 14  | Mini Project                      | Built a simple pub/sub (event emitter) in JavaScript                                      |
-| 15  | Higher Order Functions            | Learned about Higher Order Functions                                                      |
+| Week   | Day | Topic                                | Summary                                                                                   |
+| ------ | --- | ------------------------------------ | ----------------------------------------------------------------------------------------- |
+| Week 1 |     | Scopes & Closures                    |
+|        | 1   | Execution Context                    | Learned about the Execution Context, Call Stack and Hoisting.                             |
+|        | 2   | Understanding Function Scope         | Learned about Function, Block and Global Scope.                                           |
+|        | 3   | Closures                             | Learned about Closures.                                                                   |
+|        | 4   | Practical Closures Challenge         | Completed Practical Closures Challenge.                                                   |
+|        | 5   | Lexical Scope & Private Variables    | Implemented a module that maintains private state using closures.                         |
+|        | 6   | Debugging Issues                     | Learned about JavaScript debugging and error handling.                                    |
+|        | 7   | Mini Project                         | Debounce function that limits the execution of a function call.                           |
+| Week 2 |     | Event Loop & Prototypes              |
+|        | 8   | Understanding the Event Loop         | Learned about the Event Loop.                                                             |
+|        | 9   | Writing Asynchronous JavaScript      | Learned about Asynchronous JavaScript, Callbacks, Promises & Async/Await.                 |
+|        | 10  | Custom Promise Implementation        | Implemented Custom Promise                                                                |
+|        | 11  | this                                 | Learned about this.                                                                       |
+|        | 12  | Understanding Prototypes             | Learned about Prototypes, Prototype Chain, Function Prototypes and Prototype Inheritance. |
+|        | 13  | ES6 Classes & Inheritance            | Learned ES6 Classes & Inheritance                                                         |
+|        | 14  | Mini Project                         | Built a simple pub/sub (event emitter) in JavaScript                                      |
+| Week 3 |     | Functional Programming & Performance |
+|        | 15  | Higher Order Functions               | Learned about Higher Order Functions                                                      |
+|        | 16  | Function Composition & Currying      | Learned about Function Composition & Currying                                             |
 
 ## 🔗 Resources
 
@@ -110,6 +117,7 @@ Each day, I will focus on a key JavaScript topic, complete exercises, and reflec
 - [freeCodeCamp - Higher Order Functions in JavaScript – Explained with Practical Examples](https://www.freecodecamp.org/news/higher-order-functions-in-javascript-explained/)
 - [Eloquent JavaScript - Higher-Order Functions](https://eloquentjavascript.net/05_higher_order.html)
 - [#48 What are Higher Order Functions? | JavaScript Full Tutorial](https://www.youtube.com/watch?v=9E8Ih8sVy3M&t=389s)
+- [freeCodeCamp - How to Use Currying and Composition in JavaScript](https://www.freecodecamp.org/news/how-to-use-currying-and-composition-in-javascript/)
 
 ## 💡 Reflections & Learnings
 
