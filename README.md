@@ -52,6 +52,10 @@ Each day, I will focus on a key JavaScript topic, complete exercises, and reflec
  │       ├── Notes.md/
  │   ├── day-14-mini-project/
  │       ├── day-14.js/
+ ├── week-3-functional-programming-and-performance/
+ │   ├── day-15-higher-order-functions/
+ │       ├── day-15.js/
+ │       ├── Notes.md/
  ├── README.md
 ```
 
@@ -80,6 +84,7 @@ Each day, I will focus on a key JavaScript topic, complete exercises, and reflec
 | 12  | Understanding Prototypes          | Learned about Prototypes, Prototype Chain, Function Prototypes and Prototype Inheritance. |
 | 13  | ES6 Classes & Inheritance         | Learned ES6 Classes & Inheritance                                                         |
 | 14  | Mini Project                      | Built a simple pub/sub (event emitter) in JavaScript                                      |
+| 15  | Higher Order Functions            | Learned about Higher Order Functions                                                      |
 
 ## 🔗 Resources
 
@@ -102,6 +107,9 @@ Each day, I will focus on a key JavaScript topic, complete exercises, and reflec
 - [MDN - Object prototypes](https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Advanced_JavaScript_objects/Object_prototypes)
 - [MDN - Function: prototype](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/prototype)
 - [MDN - Classes](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes)
+- [freeCodeCamp - Higher Order Functions in JavaScript – Explained with Practical Examples](https://www.freecodecamp.org/news/higher-order-functions-in-javascript-explained/)
+- [Eloquent JavaScript - Higher-Order Functions](https://eloquentjavascript.net/05_higher_order.html)
+- [#48 What are Higher Order Functions? | JavaScript Full Tutorial](https://www.youtube.com/watch?v=9E8Ih8sVy3M&t=389s)
 
 ## 💡 Reflections & Learnings
 
