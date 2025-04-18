@@ -12,56 +12,60 @@ Each day, I will focus on a key JavaScript topic, complete exercises, and reflec
 /100-days-of-code
  ├── week-1-scopes-and-closures/
  │   ├── day-1-execution-context/
- │       ├── day-1.js/
- │       ├── Notes.md/
+ │       ├── day-1.js
+ │       ├── Notes.md
  │   ├── day-2-understanding-function-scope/
- │       ├── day-2.js/
- │       ├── Notes.md/
+ │       ├── day-2.js
+ │       ├── Notes.md
  │   ├── day-3-closures/
- │       ├── day-3.js/
- │       ├── Notes.md/
+ │       ├── day-3.js
+ │       ├── Notes.md
  │   ├── day-4-practical-closure-challenge/
- │       ├── day-4.js/
- │       ├── Notes.md/
+ │       ├── day-4.js
+ │       ├── Notes.md
  │   ├── day-5-lexical-scope-and-private-variables-challenge/
- │       ├── day-5.js/
- │       ├── Notes.md/
+ │       ├── day-5.js
+ │       ├── Notes.md
  │   ├── day-6-debugging-issues/
- │       ├── Notes.md/
+ │       ├── Notes.md
  │   ├── day-7-mini-project/
- │       ├── day-7.html/
- │       ├── Notes.md/
+ │       ├── day-7.html
+ │       ├── Notes.md
  ├── week-2-event-loop-and-prototypes/
  │   ├── day-8-understanding-the-event-loop/
- │       ├── day-8.js/
- │       ├── Notes.md/
+ │       ├── day-8.js
+ │       ├── Notes.md
  │   ├── day-9-writing-asynchronous-javaScript/
- │       ├── day-9.js/
- │       ├── Notes.md/
+ │       ├── day-9.js
+ │       ├── Notes.md
  │   ├── day-10-custom-promise-implementation/
- │       ├── day-10.js/
- │       ├── Notes.md/
+ │       ├── day-10.js
+ │       ├── Notes.md
  │   ├── day-11-this/
- │       ├── day-11.js/
- │       ├── Notes.md/
+ │       ├── day-11.js
+ │       ├── Notes.md
  │   ├── day-12-understanding-prototypes/
- │       ├── day-12.js/
- │       ├── Notes.md/
- │   ├── day-13-es6-classes-and-inheritance
- │       ├── day-13.js/
- │       ├── Notes.md/
+ │       ├── day-12.js
+ │       ├── Notes.md
+ │   ├── day-13-es6-classes-and-inheritance/
+ │       ├── day-13.js
+ │       ├── Notes.md
  │   ├── day-14-mini-project/
- │       ├── day-14.js/
+ │       ├── day-14.js
  ├── week-3-functional-programming-and-performance/
  │   ├── day-15-higher-order-functions/
- │       ├── day-15.js/
- │       ├── Notes.md/
+ │       ├── day-15.js
+ │       ├── Notes.md
  │   ├── day-16-function-composition-and-currying/
- │       ├── day-16.js/
- │       ├── Notes.md/
+ │       ├── day-16.js
+ │       ├── Notes.md
  │   ├── day-17-avoiding-side-effects-in-functional-programming/
- │       ├── day-17.js/
- │       ├── Notes.md/
+ │       ├── day-17.js
+ │       ├── Notes.md
+ │   ├── day-18-understanding-memory-management/
+ │       ├── day-18.html.md
+ │       ├── Notes.md
+ │       ├── script.js
  ├── README.md
 ```
 
@@ -96,6 +100,7 @@ Each day, I will focus on a key JavaScript topic, complete exercises, and reflec
 |        | 15  | Higher Order Functions                          | Learned about Higher Order Functions                                                      |
 |        | 16  | Function Composition & Currying                 | Learned about Function Composition & Currying                                             |
 |        | 17  | Avoiding Side Effects in Functional Programming | Learned about avoiding Side Effects in Functional Programming                             |
+|        | 18  | Understanding Memory Management                 | Learned about Memory Management                                                           |
 
 ## 🔗 Resources
 
@@ -122,6 +127,7 @@ Each day, I will focus on a key JavaScript topic, complete exercises, and reflec
 - [Eloquent JavaScript - Higher-Order Functions](https://eloquentjavascript.net/05_higher_order.html)
 - [#48 What are Higher Order Functions? | JavaScript Full Tutorial](https://www.youtube.com/watch?v=9E8Ih8sVy3M&t=389s)
 - [freeCodeCamp - How to Use Currying and Composition in JavaScript](https://www.freecodecamp.org/news/how-to-use-currying-and-composition-in-javascript/)
+- [MDN - Memory management](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Memory_management)
 
 ## 💡 Reflections & Learnings
 
