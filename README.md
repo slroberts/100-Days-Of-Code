@@ -66,6 +66,9 @@ Each day, I will focus on a key JavaScript topic, complete exercises, and reflec
  │       ├── day-18.html.md
  │       ├── Notes.md
  │       ├── script.js
+ │   ├── day-19-optimizing-performance/
+ │       ├── day-19.js
+ │       ├── Notes.md
  ├── README.md
 ```
 
@@ -101,6 +104,7 @@ Each day, I will focus on a key JavaScript topic, complete exercises, and reflec
 |        | 16  | Function Composition & Currying                 | Learned about Function Composition & Currying                                             |
 |        | 17  | Avoiding Side Effects in Functional Programming | Learned about avoiding Side Effects in Functional Programming                             |
 |        | 18  | Understanding Memory Management                 | Learned about Memory Management                                                           |
+|        | 19  | Optimizing Performance                          | Implemented memoization for an expensive function.                                        |
 
 ## 🔗 Resources
 
