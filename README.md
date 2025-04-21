@@ -69,6 +69,9 @@ Each day, I will focus on a key JavaScript topic, complete exercises, and reflec
  │   ├── day-19-optimizing-performance/
  │       ├── day-19.js
  │       ├── Notes.md
+ │   ├── day-20-mini-project/
+ │       ├── day-20.js
+ │       ├── Notes.md
  ├── README.md
 ```
 
@@ -94,17 +97,18 @@ Each day, I will focus on a key JavaScript topic, complete exercises, and reflec
 | Week 2 |     | Event Loop & Prototypes                         |
 |        | 8   | Understanding the Event Loop                    | Learned about the Event Loop.                                                             |
 |        | 9   | Writing Asynchronous JavaScript                 | Learned about Asynchronous JavaScript, Callbacks, Promises & Async/Await.                 |
-|        | 10  | Custom Promise Implementation                   | Implemented Custom Promise                                                                |
+|        | 10  | Custom Promise Implementation                   | Implemented Custom Promise.                                                               |
 |        | 11  | this                                            | Learned about this.                                                                       |
 |        | 12  | Understanding Prototypes                        | Learned about Prototypes, Prototype Chain, Function Prototypes and Prototype Inheritance. |
-|        | 13  | ES6 Classes & Inheritance                       | Learned ES6 Classes & Inheritance                                                         |
-|        | 14  | Mini Project                                    | Built a simple pub/sub (event emitter) in JavaScript                                      |
+|        | 13  | ES6 Classes & Inheritance                       | Learned ES6 Classes & Inheritance.                                                        |
+|        | 14  | Mini Project                                    | Built a simple pub/sub (event emitter) in JavaScript.                                     |
 | Week 3 |     | Functional Programming & Performance            |
-|        | 15  | Higher Order Functions                          | Learned about Higher Order Functions                                                      |
-|        | 16  | Function Composition & Currying                 | Learned about Function Composition & Currying                                             |
-|        | 17  | Avoiding Side Effects in Functional Programming | Learned about avoiding Side Effects in Functional Programming                             |
-|        | 18  | Understanding Memory Management                 | Learned about Memory Management                                                           |
+|        | 15  | Higher Order Functions                          | Learned about Higher Order Functions.                                                     |
+|        | 16  | Function Composition & Currying                 | Learned about Function Composition & Currying.                                            |
+|        | 17  | Avoiding Side Effects in Functional Programming | Learned about avoiding Side Effects in Functional Programming.                            |
+|        | 18  | Understanding Memory Management                 | Learned about Memory Management.                                                          |
 |        | 19  | Optimizing Performance                          | Implemented memoization for an expensive function.                                        |
+|        | 20  | Mini Project                                    | Built debounce and throttle functions from scratch.                                       |
 
 ## 🔗 Resources
 
