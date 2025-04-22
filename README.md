@@ -72,6 +72,10 @@ Each day, I will focus on a key JavaScript topic, complete exercises, and reflec
  │   ├── day-20-mini-project/
  │       ├── day-20.js
  │       ├── Notes.md
+ ├── week-4-design-patterns-and-real-world-application/
+ │   ├── day-21-singleton-pattern/
+ │       ├── day-21.js
+ │       ├── Notes.md
  ├── README.md
 ```
 
@@ -109,6 +113,8 @@ Each day, I will focus on a key JavaScript topic, complete exercises, and reflec
 |        | 18  | Understanding Memory Management                 | Learned about Memory Management.                                                          |
 |        | 19  | Optimizing Performance                          | Implemented memoization for an expensive function.                                        |
 |        | 20  | Mini Project                                    | Built debounce and throttle functions from scratch.                                       |
+| Week 4 |     | Design Patterns & Real World Application        |
+|        | 21  | Singleton Pattern                               | Learned about the Singleton Pattern.                                                      |
 
 ## 🔗 Resources
 
@@ -136,6 +142,8 @@ Each day, I will focus on a key JavaScript topic, complete exercises, and reflec
 - [#48 What are Higher Order Functions? | JavaScript Full Tutorial](https://www.youtube.com/watch?v=9E8Ih8sVy3M&t=389s)
 - [freeCodeCamp - How to Use Currying and Composition in JavaScript](https://www.freecodecamp.org/news/how-to-use-currying-and-composition-in-javascript/)
 - [MDN - Memory management](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Memory_management)
+- [freeCodeCamp - Singleton Design Pattern – How it Works in JavaScript with Example Code](https://www.freecodecamp.org/news/singleton-design-pattern-with-javascript/)
+- [patterns.dev - Singleton Pattern](https://www.patterns.dev/vanilla/singleton-pattern/)
 
 ## 💡 Reflections & Learnings
 
