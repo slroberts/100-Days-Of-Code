@@ -79,6 +79,9 @@ Each day, I will focus on a key JavaScript topic, complete exercises, and reflec
  │   ├── day-22-factory-pattern/
  │       ├── day-22.js
  │       ├── Notes.md
+ │   ├── day-23-observer-pattern/
+ │       ├── day-23.js
+ │       ├── Notes.md
  ├── README.md
 ```
 
@@ -119,6 +122,7 @@ Each day, I will focus on a key JavaScript topic, complete exercises, and reflec
 | Week 4 |     | Design Patterns & Real World Application        |
 |        | 21  | Singleton Pattern                               | Learned about the Singleton Pattern.                                                      |
 |        | 22  | Factory Pattern                                 | Learned about the Factory Pattern.                                                        |
+|        | 23  | Observer Pattern                                | Learned about the Observer Pattern.                                                       |
 
 ## 🔗 Resources
 
@@ -150,6 +154,8 @@ Each day, I will focus on a key JavaScript topic, complete exercises, and reflec
 - [patterns.dev - Singleton Pattern](https://www.patterns.dev/vanilla/singleton-pattern/)
 - [dev.to - Factory Design Pattern in JavaScript](https://dev.to/srishtikprasad/factory-design-pattern-in-javascript-1f6l)
 - [patterns.dev - Factory Pattern](https://www.patterns.dev/vanilla/factory-pattern/)
+- [dev.to - Mastering Real-Time Magic: The Observer Pattern](https://dev.to/brdnicolas/mastering-real-time-magic-the-observer-pattern-1l0k)
+- [patterns.dev - Observer Pattern](https://www.patterns.dev/vanilla/observer-pattern/)
 
 ## 💡 Reflections & Learnings
 
