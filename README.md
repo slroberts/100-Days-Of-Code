@@ -76,6 +76,9 @@ Each day, I will focus on a key JavaScript topic, complete exercises, and reflec
  │   ├── day-21-singleton-pattern/
  │       ├── day-21.js
  │       ├── Notes.md
+ │   ├── day-22-factory-pattern/
+ │       ├── day-22.js
+ │       ├── Notes.md
  ├── README.md
 ```
 
@@ -115,6 +118,7 @@ Each day, I will focus on a key JavaScript topic, complete exercises, and reflec
 |        | 20  | Mini Project                                    | Built debounce and throttle functions from scratch.                                       |
 | Week 4 |     | Design Patterns & Real World Application        |
 |        | 21  | Singleton Pattern                               | Learned about the Singleton Pattern.                                                      |
+|        | 22  | Factory Pattern                                 | Learned about the Factory Pattern.                                                        |
 
 ## 🔗 Resources
 
@@ -144,6 +148,8 @@ Each day, I will focus on a key JavaScript topic, complete exercises, and reflec
 - [MDN - Memory management](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Memory_management)
 - [freeCodeCamp - Singleton Design Pattern – How it Works in JavaScript with Example Code](https://www.freecodecamp.org/news/singleton-design-pattern-with-javascript/)
 - [patterns.dev - Singleton Pattern](https://www.patterns.dev/vanilla/singleton-pattern/)
+- [dev.to - Factory Design Pattern in JavaScript](https://dev.to/srishtikprasad/factory-design-pattern-in-javascript-1f6l)
+- [patterns.dev - Factory Pattern](https://www.patterns.dev/vanilla/factory-pattern/)
 
 ## 💡 Reflections & Learnings
 
