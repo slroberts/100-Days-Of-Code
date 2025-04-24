@@ -82,6 +82,9 @@ Each day, I will focus on a key JavaScript topic, complete exercises, and reflec
  │   ├── day-23-observer-pattern/
  │       ├── day-23.js
  │       ├── Notes.md
+ │   ├── day-24-module-pattern/
+ │       ├── day-24.js
+ │       ├── Notes.md
  ├── README.md
 ```
 
@@ -123,6 +126,7 @@ Each day, I will focus on a key JavaScript topic, complete exercises, and reflec
 |        | 21  | Singleton Pattern                               | Learned about the Singleton Pattern.                                                      |
 |        | 22  | Factory Pattern                                 | Learned about the Factory Pattern.                                                        |
 |        | 23  | Observer Pattern                                | Learned about the Observer Pattern.                                                       |
+|        | 24  | Module Pattern                                  | Learned about the Module Pattern.                                                         |
 
 ## 🔗 Resources
 
@@ -156,6 +160,8 @@ Each day, I will focus on a key JavaScript topic, complete exercises, and reflec
 - [patterns.dev - Factory Pattern](https://www.patterns.dev/vanilla/factory-pattern/)
 - [dev.to - Mastering Real-Time Magic: The Observer Pattern](https://dev.to/brdnicolas/mastering-real-time-magic-the-observer-pattern-1l0k)
 - [patterns.dev - Observer Pattern](https://www.patterns.dev/vanilla/observer-pattern/)
+- [patterns.dev - Module Pattern](https://www.patterns.dev/vanilla/module-pattern/)
+- [telerik.com - How the Module Pattern Works in JavaScript](https://www.telerik.com/blogs/how-module-pattern-works-javascript)
 
 ## 💡 Reflections & Learnings
 
