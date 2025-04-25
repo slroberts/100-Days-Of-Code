@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>API Request Strategy Pattern</title>
+    <style>
+      body {
+        font-family: sans-serif;
+        padding: 2rem;
+        background: #f4f4f4;
+      }
+      select,
+      button {
+        padding: 0.5rem;
+        margin-right: 1rem;
+      }
+      #output {
+        margin-top: 1rem;
+        padding: 1rem;
+        background: #fff;
+        border: 1px solid #ddd;
+        white-space: pre-wrap;
+      }
+    </style>
+  </head>
+  <body>
+    <h2>API Request Strategy Pattern</h2>
+
+    <select id="requestType">
+      <option value="get">GET</option>
+      <option value="post">POST</option>
+      <option value="put">PUT</option>
+      <option value="delete">DELETE</option>
+    </select>
+    <button id="sendBtn">Send Request</button>
+
+    <div id="output">Response will appear here</div>
+    <script src="script.js"></script>
+  </body>
+</html>

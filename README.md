@@ -85,6 +85,10 @@ Each day, I will focus on a key JavaScript topic, complete exercises, and reflec
  │   ├── day-24-module-pattern/
  │       ├── day-24.js
  │       ├── Notes.md
+ │   ├── day-25-strategy-pattern/
+ │       ├── day-25.html
+ │       ├── Notes.md
+ │       ├── script.js
  ├── README.md
 ```
 
@@ -127,6 +131,7 @@ Each day, I will focus on a key JavaScript topic, complete exercises, and reflec
 |        | 22  | Factory Pattern                                 | Learned about the Factory Pattern.                                                        |
 |        | 23  | Observer Pattern                                | Learned about the Observer Pattern.                                                       |
 |        | 24  | Module Pattern                                  | Learned about the Module Pattern.                                                         |
+|        | 25  | Strategy Pattern                                | Learned about the Strategy Pattern.                                                       |
 
 ## 🔗 Resources
 
@@ -162,6 +167,8 @@ Each day, I will focus on a key JavaScript topic, complete exercises, and reflec
 - [patterns.dev - Observer Pattern](https://www.patterns.dev/vanilla/observer-pattern/)
 - [patterns.dev - Module Pattern](https://www.patterns.dev/vanilla/module-pattern/)
 - [telerik.com - How the Module Pattern Works in JavaScript](https://www.telerik.com/blogs/how-module-pattern-works-javascript)
+- [dofactory.com - JavaScript Strategy Design Pattern](https://www.dofactory.com/javascript/design-patterns/strategy)
+- [dev.to - Design Patterns - Strategy Pattern in JavaScript](https://dev.to/carlillo/design-patterns---strategy-pattern-in-javascript-2hg3)
 
 ## 💡 Reflections & Learnings
 
